@@ -11,6 +11,6 @@ class BugCloseEvent
     }
     public function getUserName() : string
     {
-        return $this->userName;
+        return $this->userNamea;
     }
 }
